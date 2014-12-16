@@ -1,0 +1,1 @@
+Referred to mbostock's [normalized stacked barchart](https://gist.github.com/mbostock/3886394).
